@@ -1,1 +1,1 @@
-# Enseñe a una Máquina a Reconocer una Piedra, un Papel o una Tijera
+# Este es un experimento para Enseñar a una Máquina a Reconocer una Piedra, un Papel o una Tijera
